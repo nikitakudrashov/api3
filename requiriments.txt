@@ -1,0 +1,2 @@
+request == 2.32.5
+python_dotenv == 1.2.1
